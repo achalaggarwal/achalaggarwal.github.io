@@ -1,0 +1,54 @@
+---
+Title: Xcode on Friday the 13th
+Date: 2012-07-13
+permalink: /post/xcode
+Published: false
+layout: post
+---
+
+I know that all of us have
+
+http://en.wikipedia.org/wiki/Friday_the_13th
+
+http://www.textfromxcode.com/
+
+http://25.media.tumblr.com/tumblr_m5b996WeGe1rw6hnto1_1280.png
+
+
+--- single window
+
+command shift o - open quickly
+
+command click - open code
+
+command option click - open code in assitant editor
+
+
+TODO
+
+FIXME
+
+#pragma mark -
+#pargma mark Text
+
+
+history
+
+
+command t - make new tabs
+
+rename tabs
+
+command e and command g
+
+behaviours
+
+
+command + return ===  open primary editor
+
+command shift o === when opening files press (option enter) to open in assitant editor
+
+command shift o === when opening files press (option shift enter) to open in assitant editor
+
+
+

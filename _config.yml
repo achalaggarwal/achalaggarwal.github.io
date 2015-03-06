@@ -1,0 +1,12 @@
+# Site settings
+title: "[self animate];"
+email: mail@ach.al
+description: "code, life, stuff"
+baseurl: ""
+url: "http://self.ach.al"
+twitter_username: raz0r
+github_username:  achalaggarwal
+
+# Build settings
+markdown: kramdown
+permalink: pretty
