@@ -1,6 +1,6 @@
 ---
 title: 2 weeks with the Meta Watch
-Date: 2013-04-16
+date: 2013-04-16
 permalink: /post/meta-watch
 layout: post
 ---

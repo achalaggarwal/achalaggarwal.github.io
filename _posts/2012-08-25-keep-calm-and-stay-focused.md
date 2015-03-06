@@ -1,6 +1,6 @@
 ---
-Title: Keep Calm and Stay Focused
-Date: 2012-08-25
+title: Keep Calm and Stay Focused
+date: 2012-08-25
 permalink: /post/keep-calm-stay-focused
 layout: post
 ---

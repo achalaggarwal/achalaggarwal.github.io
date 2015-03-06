@@ -1,6 +1,6 @@
 ---
-Title: Lazy people innovate
-Date: 2012-06-29
+title: Lazy people innovate
+date: 2012-06-29
 layout: post
 permalink: /post/lazy-people-innovate
 ---

@@ -1,6 +1,6 @@
 ---
-Title: Sublime Text 2
-Date: 2012-06-28
+title: Sublime Text 2
+date: 2012-06-28
 layout: post
 permalink: /post/sublime-text-2
 ---

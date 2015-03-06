@@ -1,12 +1,38 @@
 # Site settings
 title: "[self animate];"
 email: mail@ach.al
+author: Achal Aggarwal
 description: "code, life, stuff"
 baseurl: ""
 url: "http://self.ach.al"
+
+# Google analytics
+google_analytics: UA-32995002-1
+
+# Optional features
+animated:           true
+show_related_posts: true
+show_post_footers:  true
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+show_social_icons: true
+github_username: achalaggarwal
+stackoverflow_id: 1281949
 twitter_username: raz0r
-github_username:  achalaggarwal
+linkedin_username: achalaggarwal
+google_plus_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
 
 # Build settings
-markdown: kramdown
-permalink: pretty
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+sass:
+  compressed: true
